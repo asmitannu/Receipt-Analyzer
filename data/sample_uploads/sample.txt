@@ -1,0 +1,3 @@
+Vendor: Airtel
+Date: 15/07/2025
+Amount: ₹450.00
