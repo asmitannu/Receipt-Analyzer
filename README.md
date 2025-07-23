@@ -74,7 +74,8 @@ A complete full-stack application for uploading receipts and extracting structur
 │   ├── test_utils.py
 │   └── test_endpoints.py
 
-# ⚙️ Setup Instructions
+```
+### ⚙️ Setup Instructions
 
 ### 1. **Clone the Repository**
 ```bash
@@ -82,7 +83,7 @@ git clone https://github.com/asmitannu/Receipt-Analyzer.git
 cd Receipt-Analyzer
 ```
 
-### **Create a Virtual Environment**
+### 2. **Create a virtual Emvironment**
 ```bash
 python -m venv .venv
 ```
