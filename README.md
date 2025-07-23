@@ -73,3 +73,53 @@ A complete full-stack application for uploading receipts and extracting structur
 │   ├── test_parser.py
 │   ├── test_utils.py
 │   └── test_endpoints.py
+
+# ⚙️ Setup Instructions
+
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/asmitannu/Receipt-Analyzer.git
+cd Receipt-Analyzer
+```
+
+### **Create a Virtual Environment**
+```bash
+python -m venv .venv
+```
+
+- Activate it:
+  - **Windows**:
+    ```bash
+    .venv\Scripts\activate
+    ```
+  - **Mac/Linux**:
+    ```bash
+    source .venv/bin/activate
+    ```
+
+### 3. **Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+### 4. **Install Tesseract OCR**
+- Download and install from: https://github.com/tesseract-ocr/tesseract/wiki
+- After installation, make sure to add the install path (e.g., `C:\Program Files\Tesseract-OCR`) to your system's environment variables.
+
+## 🚀 Running the App
+
+### Run Backend (Flask API)
+```bash
+cd backend
+python run.py
+```
+
+### Run Frontend (Streamlit App)
+Open a new terminal window:
+
+```bash
+cd frontend
+streamlit run streamlit_app.py
+```
+# 🧑‍💻 Author
+[Asmi Tannu](https://github.com/asmitannu)
