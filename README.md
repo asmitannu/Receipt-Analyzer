@@ -1,6 +1,6 @@
-# 🧾 Receipt Analyzer – Full Stack Mini App (8byte Internship Task)
+# 🧾 Receipt Analyzer – Full Stack Mini App 
 
-A complete full-stack application for uploading receipts and extracting structured insights using OCR, rule-based logic, and algorithmic processing. Built as part of the Python Intern – AI Solutions assignment at **8byte**.
+A complete full-stack application for uploading receipts and extracting structured insights using OCR, rule-based logic, and algorithmic processing. 
 
 ---
 
